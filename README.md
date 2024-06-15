@@ -1,1 +1,1 @@
-<h1>Java Learning</h1>
+<h1 align>Java Learning</h1>
