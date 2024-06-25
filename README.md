@@ -5,4 +5,5 @@ Welcome to my Java Learning Repository! This repository contains various files a
 
 # Installation
 1. Clone this repository to your local machine
-      $
+   
+            $  git clone 
