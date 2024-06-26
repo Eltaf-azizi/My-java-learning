@@ -6,8 +6,8 @@ Welcome to my Java Learning Repository! This repository contains various files a
 # Installation
 1. Clone this repository to your local machine
    
-            $  git clone https://github.com/Eltaf-azizi/My-java-learning.git
+              git clone https://github.com/Eltaf-azizi/My-java-learning.git
 
 2. Navigate to the cloned directory:
 
-            $ cd your-repo-name
+             cd your-repo-name
