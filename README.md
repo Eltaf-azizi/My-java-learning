@@ -10,4 +10,4 @@ Welcome to my Java Learning Repository! This repository contains various files a
 
 2. Navigate to the cloned directory:
 
-            $ 
+            $ cd your-repo-name
