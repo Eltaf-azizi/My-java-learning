@@ -27,3 +27,13 @@ Follow the steps below to clone and explore the repository on your local machine
 git clone https://github.com/Eltaf-azizi/My-java-learning.git
 ```
 
+
+### 2. Navigate to the project directory
+```bash
+Copy
+Edit
+cd My-java-learning
+```
+### 3. Open in your preferred IDE or code editor
+Recommended: IntelliJ IDEA or VS Code
+
