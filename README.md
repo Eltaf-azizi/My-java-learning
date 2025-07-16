@@ -17,3 +17,13 @@ The content ranges from:
 - 💾 File I/O and exception handling
 - 🌐 Mini-projects and practice exercises
 
+
+## 🚀 Getting Started
+
+Follow the steps below to clone and explore the repository on your local machine:
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Eltaf-azizi/My-java-learning.git
+```
+
