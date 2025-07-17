@@ -37,3 +37,14 @@ cd My-java-learning
 ### 3. Open in your preferred IDE or code editor
 Recommended: IntelliJ IDEA or VS Code
 
+## 🛠️ How to Run Java Code
+Each .java file typically contains a main method. To compile and run:
+
+```bash
+Copy
+Edit
+javac FileName.java
+java FileName
+```
+Or use the Run button in your IDE if available.
+
