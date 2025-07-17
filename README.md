@@ -48,3 +48,20 @@ java FileName
 ```
 Or use the Run button in your IDE if available.
 
+## 📖 Topics I'm Exploring
+ - Java basics and data types
+
+ - Loops and conditional statements
+
+ - Arrays and collections (ArrayList, HashMap, etc.)
+
+ - OOP principles (Inheritance, Polymorphism, Abstraction)
+
+ - Exception handling
+
+ - File input/output
+
+ - Java 8+ features (Streams, Lambda expressions)
+
+ - Simple CLI-based Java projects
+
