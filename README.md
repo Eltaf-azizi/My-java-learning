@@ -48,6 +48,43 @@ java FileName
 ```
 Or use the Run button in your IDE if available.
 
+## 📁 Project Structure
+All files are in a single folder for simplicity. Here's a list of some key Java files:
+
+```pgsql
+Copy
+Edit
+My-java-learning/
+├── hello.java
+├── Array.java
+├── Strings.java
+├── arrayOfObject.java
+├── MultipleDimensionalArray.java
+├── method.java
+├── methodOverloading.java
+├── methodOverRiding.java
+├── Interface.java
+├── needOfInterface.java
+├── inheritance.java
+├── upcasting.java
+├── downcasting.java
+├── Final.java
+├── abstractKeyword.java
+├── Encapsulation.java
+├── thisAndSuperMethod.java
+├── This.java
+├── staticVariable.java
+├── innerClass.java
+├── anonymousInnerClass.java
+├── enums.java
+├── exception.java
+├── functionalInterface.java
+├── Mobile.java
+├── string.java
+├── README.md
+```
+(File names reflect specific topics. Use them as learning examples or references.)
+
 ## 📖 Topics I'm Exploring
  - Java basics and data types
 
