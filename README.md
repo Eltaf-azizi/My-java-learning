@@ -87,5 +87,16 @@ I will continue updating this repository as I cover more Java topics and build n
 
  - GeeksforGeeks Java Programming(https://www.geeksforgeeks.org/java/)
 
+## 🤝 Contributing
+We welcome medical professionals & AI researchers to improve diagnostic accuracy!
+
+ - Report issues for misdiagnoses
+
+ - Suggest PubMed query optimizations
+
+ - Add new symptom parsing rules
+
+<h3 align="center">Happy Coding!</h3>
+
 
 
