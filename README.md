@@ -65,3 +65,15 @@ Or use the Run button in your IDE if available.
 
  - Simple CLI-based Java projects
 
+## 🧠 Stay Tuned
+I will continue updating this repository as I cover more Java topics and build new mini-projects. Future plans include:
+
+ - JavaFX GUI applications
+
+ - Unit testing with JUnit
+
+ - Multithreading and concurrency
+
+ - Networking and sockets
+
+ - Connecting Java with databases (JDBC, SQLite, etc.)
