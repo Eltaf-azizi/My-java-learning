@@ -77,3 +77,15 @@ I will continue updating this repository as I cover more Java topics and build n
  - Networking and sockets
 
  - Connecting Java with databases (JDBC, SQLite, etc.)
+
+## 📚 Resources I'm Using
+ - Java Documentation(https://docs.oracle.com/en/java/)
+
+ - W3Schools Java Tutorial(https://www.w3schools.com/java/)
+
+ - Codecademy Java Course(https://www.codecademy.com/learn/learn-java)
+
+ - GeeksforGeeks Java Programming(https://www.geeksforgeeks.org/java/)
+
+
+
